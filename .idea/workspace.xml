@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e6246eb-c17a-4544-9694-10fbf6847140" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRubyApp.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRubyApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/TestRubyApp.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/TestRubyApp/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locators/login_locators.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/TestRubyApp_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/login_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/user_credentials.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yml/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestRubyApp.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/TestRubyApp.gemspec" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +51,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -204,12 +183,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731905326232</updated>
-      <workItem from="1731905327395" duration="2417000" />
+      <workItem from="1731905327395" duration="2817000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TestRubyApp@Login_Funtionality.rcov" NAME="Login Funtionality Coverage Results" MODIFIED="1731908513556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="TestRubyApp" />
