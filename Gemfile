@@ -6,3 +6,4 @@ gemspec
 gem "rake", "~> 12.0"
 gem 'selenium-webdriver'
 gem 'rspec'
+gem 'selenium-devtools'

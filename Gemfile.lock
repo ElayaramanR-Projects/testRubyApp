@@ -1,0 +1,45 @@
+PATH
+  remote: .
+  specs:
+    TestRubyApp (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    diff-lcs (1.5.1)
+    rake (12.3.3)
+    rexml (3.3.9)
+    rspec (3.13.0)
+      rspec-core (~> 3.13.0)
+      rspec-expectations (~> 3.13.0)
+      rspec-mocks (~> 3.13.0)
+    rspec-core (3.13.2)
+      rspec-support (~> 3.13.0)
+    rspec-expectations (3.13.3)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.13.0)
+    rspec-mocks (3.13.2)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.13.0)
+    rspec-support (3.13.1)
+    rubyzip (2.3.2)
+    selenium-devtools (0.112.0)
+      selenium-webdriver (~> 4.2)
+    selenium-webdriver (4.9.0)
+      rexml (~> 3.2, >= 3.2.5)
+      rubyzip (>= 1.2.2, < 3.0)
+      websocket (~> 1.0)
+    websocket (1.2.11)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  TestRubyApp!
+  rake (~> 12.0)
+  rspec
+  selenium-devtools
+  selenium-webdriver
+
+BUNDLED WITH
+   2.1.4

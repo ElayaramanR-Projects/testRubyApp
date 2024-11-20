@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["elayaraman007@gmail.com"]
 
   spec.summary       = 'A test Ruby app'
-  spec.description   = A longer description of your test Ruby app'
+  spec.description   = 'A longer description of your test Ruby app'
   spec.homepage      = "https://github.com/ElayaramanR-Projects/testRubyApp"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
